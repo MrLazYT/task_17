@@ -1,0 +1,6 @@
+﻿  Source.cpp
+G:\Projects\courses\itstep\cpp\homeworks\homework_17\Projects\Project1\Source.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  functions.cpp
+G:\Projects\courses\itstep\cpp\homeworks\homework_17\Projects\Project1\functions.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> G:\Projects\courses\itstep\cpp\homeworks\homework_17\Projects\x64\Debug\Project1.exe
